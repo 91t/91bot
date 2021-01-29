@@ -1,0 +1,8 @@
+name: 91bot
+version: 1.0
+main: de.seekyml.ninetyonetoolsbotlite.Main
+api-version: 1.16
+prefix: 91bot
+authors: [ SeekYML ]
+description: 91bot
+website: https://github.com/SeekYML
